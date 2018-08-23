@@ -1,0 +1,8 @@
+.Filters > .selected {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.Item > .complete span {
+  text-decoration: line-through;
+}
